@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+.idea/modules.xml
+/.idea/.gitignore
+/.idea/inspectionProfiles
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/img_classifier.iml
+/.idea/dictionaries
+
+
+# OS generated files
+.DS_Store
