@@ -44,13 +44,13 @@ ___
 Примеры работы эндпоинтов приведены на скриншотах:
 1) Пример работы `/predict_item`, на ввод подается объект Item, возвращается значение float с предсказанием цены
 
-![Пример работы /predict_item](./predict_item%20example.png)
+![Пример работы /predict_item](./screenshots/predict_item%20example.png)
 
 2) Пример работы `/predict_items`, на ввод подается csv-файл, возвращается csv-файл с дополнительной колонкой предсказаний цены
 
-![Пример работы /predict_items](./predict_tems%20example.png)
+![Пример работы /predict_items](./screenshots/predict_tems%20example.png)
 
 В примере загружается файл [cars_test.csv](./cars_test.csv)
-![cars_test.csv](./car_test.csv%20preview.png)
+![cars_test.csv](./screenshots/car_test.csv%20preview.png)
 Возвращается файл result.csv
-![result.csv](./predict_items%20result.png)
+![result.csv](./screenshots/predict_items%20result.png)
